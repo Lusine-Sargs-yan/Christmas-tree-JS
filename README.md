@@ -1,2 +1,2 @@
-# Christmas-tree-JS
-demo
+# Create Christmas tree 
+
